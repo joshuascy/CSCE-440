@@ -1,0 +1,1 @@
+Each of the MATLAB scripts would require a value to be computed and 2 arrays to interpolate the function.
